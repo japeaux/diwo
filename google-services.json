@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "338277520890",
+    "firebase_url": "https://diwo-234319.firebaseio.com",
+    "project_id": "diwo-234319",
+    "storage_bucket": "diwo-234319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338277520890:android:44f21694ecf76acc",
+        "android_client_info": {
+          "package_name": "com.ionicframework.invitta391892"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338277520890-gd7safkevuungd9ijrpgqglo64e5d6tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXlZ8yB0IdY0ApHxHmH8I9uR3rZtQn9rw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

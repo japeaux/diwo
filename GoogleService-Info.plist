@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>338277520890-hl6kdvvfn76rl4ju3qgin58nrmn7j6kb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.338277520890-hl6kdvvfn76rl4ju3qgin58nrmn7j6kb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA3r9gZY_55oRum7lsZYIWj7VlLy-wIiqs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>338277520890</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ionicframework.invitta391892</string>
+	<key>PROJECT_ID</key>
+	<string>diwo-234319</string>
+	<key>STORAGE_BUCKET</key>
+	<string>diwo-234319.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:338277520890:ios:44f21694ecf76acc</string>
+	<key>DATABASE_URL</key>
+	<string>https://diwo-234319.firebaseio.com</string>
+</dict>
+</plist>
